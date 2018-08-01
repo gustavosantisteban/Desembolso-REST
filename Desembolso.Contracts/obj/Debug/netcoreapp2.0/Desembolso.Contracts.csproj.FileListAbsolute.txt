@@ -1,0 +1,14 @@
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\bin\Debug\netcoreapp2.0\Desembolso.Contracts.deps.json
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\bin\Debug\netcoreapp2.0\Desembolso.Contracts.dll
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\bin\Debug\netcoreapp2.0\Desembolso.Contracts.pdb
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\bin\Debug\netcoreapp2.0\Desembolso.Models.dll
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\bin\Debug\netcoreapp2.0\Desembolso.Models.pdb
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\obj\Debug\netcoreapp2.0\Desembolso.Contracts.csprojAssemblyReference.cache
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\obj\Debug\netcoreapp2.0\Desembolso.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\obj\Debug\netcoreapp2.0\Desembolso.Contracts.AssemblyInfoInputs.cache
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\obj\Debug\netcoreapp2.0\Desembolso.Contracts.AssemblyInfo.cs
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\obj\Debug\netcoreapp2.0\Desembolso.Contracts.csproj.CopyComplete
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\obj\Debug\netcoreapp2.0\Desembolso.Contracts.dll
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Contracts\obj\Debug\netcoreapp2.0\Desembolso.Contracts.pdb

@@ -1,0 +1,9 @@
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Models\bin\Debug\netcoreapp2.0\Desembolso.Models.deps.json
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Models\bin\Debug\netcoreapp2.0\Desembolso.Models.dll
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Models\bin\Debug\netcoreapp2.0\Desembolso.Models.pdb
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Models\obj\Debug\netcoreapp2.0\Desembolso.Models.csprojAssemblyReference.cache
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Models\obj\Debug\netcoreapp2.0\Desembolso.Models.csproj.CoreCompileInputs.cache
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Models\obj\Debug\netcoreapp2.0\Desembolso.Models.AssemblyInfoInputs.cache
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Models\obj\Debug\netcoreapp2.0\Desembolso.Models.AssemblyInfo.cs
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Models\obj\Debug\netcoreapp2.0\Desembolso.Models.dll
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Models\obj\Debug\netcoreapp2.0\Desembolso.Models.pdb

@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Desembolso.Business/1.0.0": {
+        "dependencies": {
+          "Desembolso.Contracts": "1.0.0",
+          "Desembolso.Data": "1.0.0"
+        },
+        "runtime": {
+          "Desembolso.Business.dll": {}
+        }
+      },
+      "Desembolso.Contracts/1.0.0": {
+        "dependencies": {
+          "Desembolso.Models": "1.0.0"
+        },
+        "runtime": {
+          "Desembolso.Contracts.dll": {}
+        }
+      },
+      "Desembolso.Data/1.0.0": {
+        "dependencies": {
+          "Desembolso.Models": "1.0.0"
+        },
+        "runtime": {
+          "Desembolso.Data.dll": {}
+        }
+      },
+      "Desembolso.Models/1.0.0": {
+        "runtime": {
+          "Desembolso.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desembolso.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Desembolso.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Desembolso.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Desembolso.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

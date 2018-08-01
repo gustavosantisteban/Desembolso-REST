@@ -1,0 +1,12 @@
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\bin\Debug\netcoreapp2.0\Desembolso.Data.deps.json
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\bin\Debug\netcoreapp2.0\Desembolso.Data.dll
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\bin\Debug\netcoreapp2.0\Desembolso.Data.pdb
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\bin\Debug\netcoreapp2.0\Desembolso.Models.dll
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\bin\Debug\netcoreapp2.0\Desembolso.Models.pdb
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\obj\Debug\netcoreapp2.0\Desembolso.Data.csprojAssemblyReference.cache
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\obj\Debug\netcoreapp2.0\Desembolso.Data.csproj.CoreCompileInputs.cache
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\obj\Debug\netcoreapp2.0\Desembolso.Data.AssemblyInfoInputs.cache
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\obj\Debug\netcoreapp2.0\Desembolso.Data.AssemblyInfo.cs
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\obj\Debug\netcoreapp2.0\Desembolso.Data.csproj.CopyComplete
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\obj\Debug\netcoreapp2.0\Desembolso.Data.dll
+C:\Users\TESIS\source\repos\DesembolsoREST\Desembolso.Data\obj\Debug\netcoreapp2.0\Desembolso.Data.pdb
